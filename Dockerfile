@@ -6,3 +6,4 @@ MAINTAINER shankar Busetty <bunny.shankar@gmail.com>
 RUN mkdir mynewdir
 RUN echo 'this is my new container' > /mynewdir/mynewfile
 RUN mkdir automatedBuilds
+CP uu TMP
